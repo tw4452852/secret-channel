@@ -1,0 +1,1 @@
+cmd_/home/tw/program/channel_rcv/kernel/channel.ko := ld -r -m elf_i386 -T /usr/src/kernels/2.6.33.3-85.fc13.i686/scripts/module-common.lds --build-id -o /home/tw/program/channel_rcv/kernel/channel.ko /home/tw/program/channel_rcv/kernel/channel.o /home/tw/program/channel_rcv/kernel/channel.mod.o
